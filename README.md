@@ -18,17 +18,17 @@ Here are some of the remarkable projects I've crafted, each blending creativity,
    
    PhotoBook is a cutting-edge social media app clone that revolves around sharing captivating photos. Built with Node.js and powered by MongoDB, it offers users a platform to express their creativity and connect with others through the power of visual storytelling. The project's primary goal was to create a seamless and immersive user experience, allowing individuals to upload, like, and comment on photos while customizing their profiles to reflect their unique personalities. Throughout the development process, notable achievements included implementing secure user authentication, optimizing database performance with MongoDB, and ensuring responsive design for a seamless mobile experience. Challenges were encountered in handling large image uploads efficiently and maintaining a scalable infrastructure to accommodate a growing user base. Nevertheless, with dedication and innovation, the project successfully overcame these hurdles, delivering a feature-rich social media app clone that empowers users to share their photo journey with the world.
 
-2. **Project 2:** [Brief project description or tagline]
-   - Repository: [Link to the repository]
-   - Demo: [Link to the live demo (if applicable)]
+2. **Project 2:** Soar to New Heights: Control the Bird with Your Hands in "Whirley Bird" - A Thrilling Pygame Experience!
+   - Repository: https://github.com/Qamar2315/Whirleybird
+   - Demo: 
 
-   [Provide a concise paragraph describing the project, its purpose, the technologies employed, and any noteworthy achievements or challenges faced.]
+  "Whirley Bird" is an innovative Pygame project that puts you in control of a bird as it navigates through challenging obstacles. The purpose of the game is to provide an immersive and exciting experience where players can test their skills and reflexes. What sets this project apart is the use of hand-driven controls, made possible by the integration of the CV2 library and Movenet technology. By detecting and interpreting hand gestures, players can tilt their hands left or right to guide the bird's movements. The project also incorporates SQLite for secure score storage and leaderboard functionality. Noteworthy achievements include the seamless integration of hand detection and motion tracking, creating an intuitive and immersive gameplay experience. Challenges involved optimizing performance and responsiveness while maintaining a smooth hand-to-bird movement synchronization. "Whirley Bird" is a testament to the creative use of technology to enhance the gaming experience and provide hours of entertainment.
 
-3. **Project 3:** [Brief project description or tagline]
-   - Repository: [Link to the repository]
-   - Demo: [Link to the live demo (if applicable)]
+3. **Project 3:** WaterZilla-Simplify Water Purchases, Empower Administrators - A Revolutionary MERN Stack Web App!
+   - Repository: https://github.com/Qamar2315/Waterzilla
+   - Demo: https://drive.google.com/file/d/1hS16XUPfi3pImEj2GCuv3Cr290eU3G7p/view?usp=sharing
 
-   [Provide a concise paragraph describing the project, its purpose, the technologies employed, and any noteworthy achievements or challenges faced.]
+   WaterZilla is a cutting-edge MERN stack web application that revolutionizes the process of buying water online. With separate backends connected to MongoDB and MySQL, this app provides a comprehensive platform for both customers and administrators. Customers can easily place orders, track their status, and even cancel if needed. On the admin side, a feature-rich dashboard allows for efficient management of customers, orders, and sales, with the ability to generate detailed reports in PDF format. Noteworthy achievements include the seamless integration of multiple databases and the development of a user-friendly interface. Challenges were faced in ensuring data consistency between the two backends and implementing robust security measures. WaterZilla aims to streamline the online water buying process, offering convenience and powerful management capabilities for administrators.
 
 Feel free to delve into my repositories to discover more captivating projects!
 
