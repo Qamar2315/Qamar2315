@@ -14,7 +14,7 @@ Here are some of the remarkable projects I've crafted, each blending creativity,
 
 1. **Project 1:** WaterZilla-Simplify Water Purchases, Empower Administrators - A Revolutionary MERN Stack Web App!
    - Repository: https://github.com/Qamar2315/Waterzilla
-   - Demo: https://drive.google.com/drive/folders/1GIBXbe7Lodr5M3R0d5QPFu0qjC_P17ui?usp=sharing
+   - Demo: https://drive.google.com/file/d/1i-SnquD4fTM2HRJIXB2-XYnjnZmWi7ho/view?usp=sharing
 
    WaterZilla is a cutting-edge MERN stack web application that revolutionizes the process of buying water online. With separate backends connected to MongoDB and MySQL, this app provides a comprehensive platform for both customers and administrators. Customers can easily place orders, track their status, and even cancel if needed. On the admin side, a feature-rich dashboard allows for efficient management of customers, orders, and sales, with the ability to generate detailed reports in PDF format. Noteworthy achievements include the seamless integration of multiple databases and the development of a user-friendly interface. Challenges were faced in ensuring data consistency between the two backends and implementing robust security measures. WaterZilla aims to streamline the online water buying process, offering convenience and powerful management capabilities for administrators.
 
