@@ -39,15 +39,15 @@ I have honed my expertise across a wide range of technologies and tools, includi
 - Programming languages: Python, JavaScript
 - Full-Stack: Node.js, React
 - Databases: MongoDB, MySQL
-- Machine Learning: [Specify the areas of Machine Learning you specialize in]
+- Machine Learning: Sklearn
 
 ## Get in Touch! 📬
 
-I love connecting with fellow developers and enthusiasts. Feel free to reach out to me via email at [Your email address]. You can also find me on [LinkedIn](https://www.linkedin.com/in/your-profile) and [Twitter](https://twitter.com/your-profile). Let's collaborate, exchange ideas, or simply have a great conversation!
+I love connecting with fellow developers and enthusiasts. Feel free to reach out to me via email at qamarislam4496@gmail.com. You can also find me on [LinkedIn](https://www.linkedin.com/in/qamar-ul-islam-193378202) and [Twitter](https://twitter.com/QamarUl64262925). Let's collaborate, exchange ideas, or simply have a great conversation!
 
 ## Contributions and Open Source 💡
 
-I am a firm believer in the power of the open-source community and the spirit of collaboration. I actively contribute to open-source projects whenever possible. If you have any exciting projects you'd like me to contribute to, please don't hesitate to let me know!
+I am a firm believer in the power of the open-source community and the spirit of collaboration. If you have any exciting projects you'd like me to contribute to, please don't hesitate to let me know!
 
 ## Let's Create Something Extraordinary! ✨
 
