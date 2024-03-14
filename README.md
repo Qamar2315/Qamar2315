@@ -13,6 +13,7 @@ I'm Qamar, a seasoned full-stack master with a burning passion for technology. I
 Here are some of the remarkable projects I've crafted, each blending creativity, functionality, and technical prowess:
 
 1. **Project 1: ChefConnect** - A Recipe-Sharing Platform with Next.js and Tailwind CSS
+
    - Repository: https://github.com/Qamar2315/chefconnect
    - Demo: https://drive.google.com/file/d/1U576iNiEuYzdcOdF_WhM4e4mLgmvcc6u/view?usp=sharing
 
