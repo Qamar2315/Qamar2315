@@ -12,33 +12,40 @@ I'm Qamar, a seasoned full-stack master with a burning passion for technology. I
 
 Here are some of the remarkable projects I've crafted, each blending creativity, functionality, and technical prowess:
 
-1. **Project 1:** WaterZilla-Simplify Water Purchases, Empower Administrators - A Revolutionary MERN Stack Web App!
+1. **Project 1: ChefConnect** - A Recipe-Sharing Platform with Next.js and Tailwind CSS
+   - Repository: https://github.com/Qamar2315/chefconnect
+   - Demo: []
+
+ChefConnect is a recipe-sharing platform developed with Next.js and Tailwind CSS. It allows users to discover, save, and share recipes seamlessly. Key features include recipe discovery, saving and sharing options, search functionality, secure authentication, and a responsive design for an engaging user experience.
+ChefConnect aims to simplify recipe sharing and foster a community of food enthusiasts through intuitive design and robust features.
+
+1. **Project 2:** WaterZilla-Simplify Water Purchases, Empower Administrators - A Revolutionary MERN Stack Web App!
    - Repository: https://github.com/Qamar2315/Waterzilla
    - Demo: https://drive.google.com/file/d/1i-SnquD4fTM2HRJIXB2-XYnjnZmWi7ho/view?usp=sharing
 
    WaterZilla is a cutting-edge MERN stack web application that revolutionizes the process of buying water online. With separate backends connected to MongoDB and MySQL, this app provides a comprehensive platform for both customers and administrators. Customers can easily place orders, track their status, and even cancel if needed. On the admin side, a feature-rich dashboard allows for efficient management of customers, orders, and sales, with the ability to generate detailed reports in PDF format. Noteworthy achievements include the seamless integration of multiple databases and the development of a user-friendly interface. Challenges were faced in ensuring data consistency between the two backends and implementing robust security measures. WaterZilla aims to streamline the online water buying process, offering convenience and powerful management capabilities for administrators.
 
 
-2. **Project 2:** PhotoBook: Unleash your creativity, connect through captivating photos with our Node.js and MongoDB-powered social media app clone!
+2. **Project 3:** PhotoBook: Unleash your creativity, connect through captivating photos with our Node.js and MongoDB-powered social media app clone!
    - Repository: https://github.com/Qamar2315/Photobook
    - Demo: https://drive.google.com/file/d/1eU1sk0B_BO645geMQyY3IaA0Kmo2cdJS/view?usp=sharing
    
    PhotoBook is a cutting-edge social media app clone that revolves around sharing captivating photos. Built with Node.js and powered by MongoDB, it offers users a platform to express their creativity and connect with others through the power of visual storytelling. The project's primary goal was to create a seamless and immersive user experience, allowing individuals to upload, like, and comment on photos while customizing their profiles to reflect their unique personalities. Throughout the development process, notable achievements included implementing secure user authentication, optimizing database performance with MongoDB, and ensuring responsive design for a seamless mobile experience. Challenges were encountered in handling large image uploads efficiently and maintaining a scalable infrastructure to accommodate a growing user base. Nevertheless, with dedication and innovation, the project successfully overcame these hurdles, delivering a feature-rich social media app clone that empowers users to share their photo journey with the world.
 
-3. **Project 3:** Soar to New Heights: Control the Bird with Your Hands in "Whirley Bird" - A Thrilling Pygame Experience!
+3. **Project 4:** Soar to New Heights: Control the Bird with Your Hands in "Whirley Bird" - A Thrilling Pygame Experience!
    - Repository: https://github.com/Qamar2315/Whirleybird
    - Demo: https://drive.google.com/file/d/1hS16XUPfi3pImEj2GCuv3Cr290eU3G7p/view?usp=sharing
 
   "Whirley Bird" is an innovative Pygame project that puts you in control of a bird as it navigates through challenging obstacles. The purpose of the game is to provide an immersive and exciting experience where players can test their skills and reflexes. What sets this project apart is the use of hand-driven controls, made possible by the integration of the CV2 library and Movenet technology. By detecting and interpreting hand gestures, players can tilt their hands left or right to guide the bird's movements. The project also incorporates SQLite for secure score storage and leaderboard functionality. Noteworthy achievements include the seamless integration of hand detection and motion tracking, creating an intuitive and immersive gameplay experience. Challenges involved optimizing performance and responsiveness while maintaining a smooth hand-to-bird movement synchronization. "Whirley Bird" is a testament to the creative use of technology to enhance the gaming experience and provide hours of entertainment.
 
-4. **Project 4:** Fertility Diagnoser: Unleashing the Power of Machine Learning in Web App Development - Predicting Fertility Levels with Accuracy and Ease!
+4. **Project 5:** Fertility Diagnoser: Unleashing the Power of Machine Learning in Web App Development - Predicting Fertility Levels with Accuracy and Ease!
    - Repository: https://github.com/Qamar2315/fertility_diagnoser
    - Demo: https://drive.google.com/file/d/1zOLM9ysLYdxdwP2XaXQgzUO6pmvg0Xz8/view?usp=sharing
 
   Fertility Diagnoser is a groundbreaking web application that utilizes machine learning to predict fertility levels. With a focus on user-friendly functionality, the app combines React for the front end and Python for the back end and machine learning components. By leveraging the sklearn library, a robust machine-learning model was trained and tested to provide accurate fertility predictions. The purpose of the project is to empower individuals with insights into their fertility potential based on inputted data such as age and hormone levels. Noteworthy achievements include successfully integrating the frontend and backend components, creating an intuitive user interface, and achieving high prediction accuracy. Challenges were encountered during the training and optimization of the machine learning model, but with perseverance and innovation, the project overcame these hurdles. Fertility Diagnoser represents the convergence of web app development and machine learning, providing users with valuable fertility insights at their fingertips.
 
 
-5. **Project 5:** Personalized Diet Plan Recommender: Unleash Your Optimal Nutrition - Tailored Meal Plans for a Healthier You!
+5. **Project 6:** Personalized Diet Plan Recommender: Unleash Your Optimal Nutrition - Tailored Meal Plans for a Healthier You!
    - Repository: https://github.com/Qamar2315/diet_recommendation_system
    - Demo: https://drive.google.com/file/d/1LuxV-oIfB2Lk_GwBBpWY2_x56ZqUhqNm/view?usp=sharing
 
@@ -50,10 +57,10 @@ Feel free to delve into my repositories to discover more captivating projects!
 
 I have honed my expertise across a wide range of technologies and tools, including:
 
-- Programming languages: Python, JavaScript
-- Full-Stack: Node.js, React
+- Programming languages: Python, JavaScript, Typescript
+- Full-Stack: Node.js, React, NextJS, ReactNative
 - Databases: MongoDB, MySQL
-- Machine Learning: Sklearn
+- Machine Learning: Sklearn, Tensorflow, Keras
 
 ## Get in Touch! 📬
 
