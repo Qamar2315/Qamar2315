@@ -12,49 +12,45 @@ I'm Qamar, a seasoned full-stack master with a burning passion for technology. I
 
 Here are some of the remarkable projects I've crafted, each blending creativity, functionality, and technical prowess:
 
-
-1. **Project 1: ChefConnect Mobile App** - A Culinary Hub Powered by React Native and Tailwind CSS
+**Project 1: ChefConnect Mobile App** - A Culinary Hub Powered by React Native and Tailwind CSS
 
    - Repository: https://github.com/Qamar2315/chefconnect-mobile-app
    - Demo: https://drive.google.com/file/d/17LEEiftWUtTYzVCa7yRk_5A79T0UqbpA/view
      
 ChefConnect Mobile App is a recipe platform designed with React Native, MongoDB, Express, Node.js, and Tailwind CSS. It empowers users to create, edit, and review recipes directly from their mobile devices. The app facilitates recipe creation, editing, and review functionalities, along with a seamless user experience through features like recipe discovery, search options, and user authentication. ChefConnect Mobile is tailored to simplify recipe management and enhance community engagement among food enthusiasts through its intuitive design and comprehensive features.
 
-2. **Project 2: ChefConnect** - A Recipe-Sharing Platform with Next.js and Tailwind CSS
+**Project 2: ChefConnect** - A Recipe-Sharing Platform with Next.js and Tailwind CSS
 
    - Repository: https://github.com/Qamar2315/chefconnect
    - Demo: https://drive.google.com/file/d/1U576iNiEuYzdcOdF_WhM4e4mLgmvcc6u/view?usp=sharing
      
 ChefConnect is a recipe management platform built with Next.js and Tailwind CSS. It enables users to discover, create, and review recipes effortlessly. Key features include recipe creation and editing, review functionalities, search options, secure authentication, and a responsive design for an immersive user experience. ChefConnect's goal is to streamline recipe management and cultivate a community of food enthusiasts through its user-friendly interface and comprehensive features.
 
-3. **Project 3:** WaterZilla-Simplify Water Purchases, Empower Administrators - A Revolutionary MERN Stack Web App!
+**Project 3:** WaterZilla-Simplify Water Purchases, Empower Administrators - A Revolutionary MERN Stack Web App!
    - Repository: https://github.com/Qamar2315/Waterzilla
    - Demo: https://drive.google.com/file/d/1i-SnquD4fTM2HRJIXB2-XYnjnZmWi7ho/view?usp=sharing
      
 WaterZilla is a cutting-edge MERN stack web app for buying water online. It features separate backends for MongoDB and MySQL, providing a comprehensive platform. Customers can place orders, track status, and admins manage customers, orders, and sales with PDF reports. Challenges included data consistency and robust security, but WaterZilla aims to streamline water buying with convenience and powerful management tools.
 
-
-4. **Project 4:** PhotoBook: Unleash your creativity, connect through captivating photos with our Node.js and MongoDB-powered social media app clone!
+**Project 4:** PhotoBook: Unleash your creativity, connect through captivating photos with our Node.js and MongoDB-powered social media app clone!
    - Repository: https://github.com/Qamar2315/Photobook
    - Demo: https://drive.google.com/file/d/1eU1sk0B_BO645geMQyY3IaA0Kmo2cdJS/view?usp=sharing
    
    PhotoBook is a cutting-edge social media app clone built with Node.js and MongoDB for storing user data. It provides a platform for sharing captivating photos, emphasizing creativity and visual storytelling. The project prioritizes a seamless user experience with secure authentication, optimized performance, and responsive design. Challenges included handling large image uploads efficiently and ensuring scalability for a growing user base, but the app successfully delivers a feature-rich platform for sharing photo journeys.
 
-5. **Project 5:** Soar to New Heights: Control the Bird with Your Hands in "Whirley Bird" - A Thrilling Pygame Experience!
+**Project 5:** Soar to New Heights: Control the Bird with Your Hands in "Whirley Bird" - A Thrilling Pygame Experience!
    - Repository: https://github.com/Qamar2315/Whirleybird
    - Demo: https://drive.google.com/file/d/1hS16XUPfi3pImEj2GCuv3Cr290eU3G7p/view?usp=sharing
 
    "Whirley Bird" is an innovative Pygame project that offers an immersive gaming experience by allowing players to control a bird through challenging obstacles. The game features hand-driven controls using the CV2 library and Movenet technology, enabling players to tilt their hands to guide the bird's movements. It utilizes SQLite for secure score storage and leaderboard functionality. Notable achievements include seamless hand detection integration and creating an intuitive gameplay experience. Challenges included optimizing performance and synchronization between hand gestures and bird movements. Overall, "Whirley Bird" showcases creative technology use to enhance gaming enjoyment and skill testing.
 
-6. **Project 6:** Fertility Diagnoser: Unleashing the Power of Machine Learning in Web App Development - Predicting Fertility Levels with Accuracy and Ease!
+**Project 6:** Fertility Diagnoser: Unleashing the Power of Machine Learning in Web App Development - Predicting Fertility Levels with Accuracy and Ease!
    - Repository: https://github.com/Qamar2315/fertility_diagnoser
    - Demo: https://drive.google.com/file/d/1zOLM9ysLYdxdwP2XaXQgzUO6pmvg0Xz8/view?usp=sharing
 
-
    Fertility Diagnoser is a web app using machine learning (sklearn) to predict fertility levels based on user input like age and hormone levels. It combines React for the frontend and Python for the backend, achieving high prediction accuracy. The app's achievements include seamless frontend-backend integration, an intuitive interface, and valuable fertility insights for users, despite challenges in model training and optimization.
 
-
-7. **Project 7:** Personalized Diet Plan Recommender: Unleash Your Optimal Nutrition - Tailored Meal Plans for a Healthier You!
+**Project 7:** Personalized Diet Plan Recommender: Unleash Your Optimal Nutrition - Tailored Meal Plans for a Healthier You!
    - Repository: https://github.com/Qamar2315/diet_recommendation_system
    - Demo: https://drive.google.com/file/d/1LuxV-oIfB2Lk_GwBBpWY2_x56ZqUhqNm/view?usp=sharing
 
