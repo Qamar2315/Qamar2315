@@ -13,7 +13,7 @@ I'm Qamar, a seasoned full-stack master with a burning passion for technology. I
 Here are some of the remarkable projects I've crafted, each blending creativity, functionality, and technical prowess:
 
 
-1. **Project 1: ChefConnect Mobile App ** - A Culinary Hub Powered by React Native and Tailwind CSS
+1. **Project 1: ChefConnect Mobile App** - A Culinary Hub Powered by React Native and Tailwind CSS
 
    - Repository: https://github.com/Qamar2315/chefconnect-mobile-app
    - Demo: https://drive.google.com/file/d/17LEEiftWUtTYzVCa7yRk_5A79T0UqbpA/view
