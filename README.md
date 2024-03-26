@@ -62,7 +62,7 @@ I have honed my expertise across a wide range of technologies and tools, includi
 
 - Programming languages: Python, JavaScript, Typescript
 - Full-Stack: Node.js, React, NextJS, ReactNative
-- Databases: MongoDB, MySQL
+- Databases: MongoDB, MySQL, SQLite3
 - Machine Learning: Sklearn, Tensorflow, Keras
 
 ## Get in Touch! 📬
