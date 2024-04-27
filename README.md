@@ -12,7 +12,7 @@ I'm Qamar, a seasoned full-stack master with a burning passion for technology. I
 
 Here are some of the remarkable projects I've crafted, each blending creativity, functionality, and technical prowess:
 
-**Project 1: Quotewise** - A Culinary Hub Powered by React Native and Tailwind CSS
+**Project 1: Quotewise** Inspire with AI-Generated Quotes. Angular frontend and TypeScript backend for a modern user experience.
 
    - Repository: https://github.com/Qamar2315/quotewise
    - Demo: [https://drive.google.com/file/d/17LEEiftWUtTYzVCa7yRk_5A79T0UqbpA/view](https://drive.google.com/file/d/1RwAh3zCXpMx0uKXEAp3BIZBXWnsKol_j/view?usp=sharing)
