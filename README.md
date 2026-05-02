@@ -31,12 +31,6 @@ I am a Software Engineer specializing in backend architecture, distributed syste
 
 *(Feel free to explore my repositories below for more full-stack web apps, games, and automation scripts!)*
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qamar2315&show_icons=true&theme=radical&hide_border=true" alt="Qamar's GitHub Stats" />
-</p>
-
 ### 📬 Get in Touch
 
 I am always open to discussing backend architecture, AI pipelines, or exciting open-source collaborations.
